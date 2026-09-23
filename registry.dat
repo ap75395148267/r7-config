@@ -1,14 +1,14 @@
 {
   "a7f2c91e": {
-  "r": "TEST1",
-  "d": "d074d8ac5c8ea59e951426ff9c328a41942af517bfb783a7df095d4a17347df2"
+    "r": "0.0.1-test",
+    "d": "0c6550e6464fccb3ab890e1e1d33b292a2ac651c5c615009485200e28e6d77e8"
   },
   "c84b10f3": {
-    "r": "0",
-    "d": ""
+    "r": "0.0.1-test",
+    "d": "cfb285391eb41a108aaf00813f1a549ab131ce6171a4bbf1bd06fb05b9efbd5b"
   },
   "e2197ad6": {
-    "r": "0",
-    "d": ""
+    "r": "0.0.1-test",
+    "d": "b2aa3141e1ffc04e86128d7c7c6a9843bdd94876b097c80d633fab419f8f5352"
   }
 }
