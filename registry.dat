@@ -1,15 +1,3 @@
-{
-  "a7f2c91e": {
-  "r": "10.0",
-  "d": "b17b2c32e79c22d057f73dcb8783d3de0523c3692454faad9cd0f5f4be26bd92"
-  },
-  "c84b10f3": {
-    "r": "0.0.1-test",
-    "d": "8839a9266cf2681d277b63e4b09ec5cf4ba4e4f381824dd720ec919cb16dc35d"
-  },
-  "e2197ad6": {
-    "r": "0.0.1-test",
-    "d": "a89af8525e59aa7173611d11bfa31679e8372a356241f1b2f7033178f6c4aaed"
-  }
-}
-software:kore, version:10.0, sha:c50a7855cfb28de710be2e0b860ee30155b78662ff88e32eb394e4fa2f5c6a37
+software:kore, version:10.0, sha:b17b2c32e79c22d057f73dcb8783d3de0523c3692454faad9cd0f5f4be26bd92
+software:trinacria, version:0.0.1-test, sha:8839a9266cf2681d277b63e4b09ec5cf4ba4e4f381824dd720ec919cb16dc35d
+software:naxos, version:0.0.1-test, sha:a89af8525e59aa7173611d11bfa31679e8372a356241f1b2f7033178f6c4aaed
