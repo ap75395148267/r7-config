@@ -1,4 +1,4 @@
 software:kore, version:10.0, sha:fd4f5aa883708a8aa916f22d80d87b807c9a739b20f158adda7070a04fe0f96f
 software:trinacria, version:6.3, sha:ff598469abc157b0897420b3466c86b6f5ebc44c61e68adad5a5e365d197afb3
 software:naxos, version:0.0.1-test, sha:a89af8525e59aa7173611d11bfa31679e8372a356241f1b2f7033178f6c4aaed
-software:ETNA_SUITE, version:4.0, sha:a4ed1dbd910f7afc1635f06fb1b10417ad77f04e62348e643503d15f07eee8c2
+software:ETNA_SUITE, version:4.0, sha:9ecc733cf6cc39f32e6f0b6a6afcb1118b6e39828d200cf118296a6d36fa385c
